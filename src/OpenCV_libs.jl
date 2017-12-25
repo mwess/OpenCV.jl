@@ -2,10 +2,10 @@
 # Supports OSX (10.12.3) and Linux
 # see README for details
 
-cvlibdir = "/usr/local/lib/"
-cvheaderdir = "/usr/local/include/"
+cvlibdir = "/usr/lib/"
+cvheaderdir = "/usr/include/"
 
-version = "3.2.0"
+version = "3.3.1"
 
 libprefix = "libopencv_"
 

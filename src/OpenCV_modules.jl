@@ -88,13 +88,13 @@ include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_highgui.jl"))
 # include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_video.jl"))
 
 # OpenCL support (ocl)
-include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_ocl.jl"))
+# include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_ocl.jl"))
 
 # OpenGL support (ogl)
 # include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_opengl.jl"))
 
 # Support for conversion and manipulation of images from external packages
-include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_ImagesSupport.jl"))
+# include(joinpath(Pkg.dir("OpenCV"), "./src/OpenCV_ImagesSupport.jl"))
 
 
 
